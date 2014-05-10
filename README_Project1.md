@@ -1,3 +1,5 @@
+The project code book describes the entire project, reproducing the full instructions for the tasks required to complete it.
+
 Project1Code.R contains all the performs the following tasks:
 
 1. Loads data for project, and selects data for appropriate first two days of February.
